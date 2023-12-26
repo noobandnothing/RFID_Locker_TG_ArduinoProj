@@ -2,4 +2,4 @@ https://youtu.be/Tv2RMlIxBXs
 
 And 
 
-Connect GND TO RESET
+Connect GND TO RESET in arduino
